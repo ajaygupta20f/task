@@ -20,5 +20,6 @@ Database: MongoDB Atlas
 
 Others: dotenv, nodemon, etc.
 
-backend - npm start
+backend - npm start 
+
 frontend - npm run dev
